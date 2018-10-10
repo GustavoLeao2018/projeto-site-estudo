@@ -1,0 +1,21 @@
+{
+  "name": "Site de estudo api",
+  "authors": [
+    "GustavoLeao2018 <gustavo.leao.nogueira.2018@gmail.com>"
+  ],
+  "description": "Este site servira para testar e executar a api da Tray.",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "https://gustavoleaoblog.wordpress.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.7.5",
+    "bootstrap": "^4.1.3"
+  }
+}
